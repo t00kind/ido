@@ -31,6 +31,14 @@ export const StudioIntro = forwardRef<HTMLDivElement>((_, ref) => {
           style={{ color: "rgba(255,255,255,0.8)" }}
         >
           Для тех, кто выбирает лучшее
+
+        </p>
+        <p
+          className="mt-8 md:mt-10 text-base md:text-lg lg:text-xl font-medium tracking-tight text-pretty"
+          style={{ color: "rgba(255,255,255,0.8)" }}
+        >
+          Прямо сейчас
+
         </p>
       </div>
     </div>
